@@ -9,6 +9,12 @@
 
 <img width="242" alt="image" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-daria-koroleva/assets/64214666/c7cbef70-94d6-4f4d-b1d7-984fc5851ba1">
 
+<img width="86" alt="image" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-daria-koroleva/assets/64214666/969abb16-1b24-4c32-aa55-31337e4330c2">
+<img width="91" alt="image" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-daria-koroleva/assets/64214666/b68df147-c0ab-48c6-9418-5d5abf0db96c">
+
+
+
+
 
 
 
